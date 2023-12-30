@@ -1,0 +1,49 @@
+.section__hero {
+
+}
+
+
+.inner__section__hero {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    padding: 1rem 1rem;
+    align-items: center;
+    justify-content: space-between !important;
+    min-height: 35rem;
+}
+
+.cont__left{
+}
+
+.slider{
+   max-width: 35rem;
+}
+.cta__bar{
+    height: 2.8rem;
+    display: flex;
+    gap: 2rem;
+}
+
+
+.action__bar h2{
+    line-height: 1.1;
+    font-size: 2.6rem;
+    width: 75%;
+    color: #000;
+    font-weight: 500;
+    padding-bottom: 2rem;
+}
+.action__bar p{
+    margin-bottom: 2rem;
+    width: 75%;
+
+}
+.card {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center;
+    gap: 0.6rem;
+    justify-content: center !important;
+}
